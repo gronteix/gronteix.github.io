@@ -71,7 +71,7 @@ author:
   name             : "Gustave Ronteix"
   avatar           : "images/biophoto.png"
   bio              : "PhD student at the Pasteur Insitute in Paris."
-  location         : "Location"
+  location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
