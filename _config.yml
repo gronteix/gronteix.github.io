@@ -69,7 +69,7 @@ analytics:
 # Site Author
 author:
   name             : "Gustave Ronteix"
-  avatar           : "bio-photo.png"
+  avatar           : "biophoto.png"
   bio              : "PhD student at the Pasteur Insitute in Paris."
   location         : "Location"
   employer         :
@@ -90,7 +90,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
