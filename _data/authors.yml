@@ -2,9 +2,9 @@
 
 Name Name:
   name        : "Gustave Ronteix"
-  uri         : "http://name.com"
+  uri         : 
   email       : "gustave.ronteix@pasteur.fr"
   bio         : "This is me"
-  avatar      : "bio-photo.png"
-  twitter     : "name"
-  google_plus : "Name"
+  avatar      : "biophoto.png"
+  twitter     : "ronfleix"
+  google_plus : 
