@@ -69,7 +69,7 @@ analytics:
 # Site Author
 author:
   name             : "Gustave Ronteix"
-  avatar           : "biophoto.jpg"
+  avatar           : "images/biophoto.jpg"
   bio              : "PhD student at the Pasteur Insitute in Paris."
   location         : "Location"
   employer         :
