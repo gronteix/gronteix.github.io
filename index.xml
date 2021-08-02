@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Gustave&#39;s website</title>
-    <link>https://example.com/</link>
+    <link>https://gronteix.github.io/</link>
     <description>Recent content in About on Gustave&#39;s website</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gronteix.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://gronteix.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://gronteix.github.io/about/</guid>
       <description>Presentation Hi there! I am a third year PhD student in the Physical Microfluidics and Bioengineering lab at the Pasteur Institute in Paris. At the PμB we develop new microfluidic setups and quantitative tools to study complex biological phenomena, such as yeast DNA repair mechanisms or the bacterial SOS response.
 My PhD project involves studying immune-tumor cell interactions in microfluidic chips. With advanced imaging pipelines and coupled with some additional mathematical modeling, we investigate how immune cells accumulate at tumor sites and how they successfully - or not - kill cancer cells.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://gronteix.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://gronteix.github.io/contact/</guid>
       <description> Email: foo@xyz.com Phone: +91-123123   Mailing Address  221B, Baker Street
 London
 United Kingdom
